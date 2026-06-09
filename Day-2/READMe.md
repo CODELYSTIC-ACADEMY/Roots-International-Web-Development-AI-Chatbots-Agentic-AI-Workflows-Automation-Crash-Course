@@ -1,10 +1,5 @@
 # Day 02 — Developer Setup + HTML Foundation + First Portfolio Page
 
-**Course:** Web Development, AI Chatbots, Agentic AI Workflows & Automation  
-**Class Duration:** 2 Hours  
-**Session Type:** Practical Coding Class  
-**Main Focus:** Setup + HTML Foundations + Portfolio Structure  
-
 ---
 
 ## 🎯 Day 02 Goal
@@ -31,45 +26,6 @@ By the end of Day 02, students should be able to:
 
 ---
 
-## ⏱️ Day 02 Class Flow
-
-| Time | Section | Focus |
-|---|---|---|
-| 0–10 min | Quick recap | What we learned in Day 01 |
-| 10–20 min | Foundation concepts | Websites, frontend/backend, static/dynamic |
-| 20–35 min | VS Code setup | Folder, files, Live Server |
-| 35–50 min | HTML boilerplate | First real HTML structure |
-| 50–75 min | Basic HTML tags | Headings, paragraphs, lists, links, images, buttons |
-| 75–105 min | Portfolio page build | Navbar, hero, about, skills, projects, contact |
-| 105–115 min | Preview + customization | Students edit text and sections |
-| 115–120 min | Recap + homework | Assign portfolio content task |
-
----
-
-## 1. Quick Recap of Day 01
-
-Ask students:
-
-```text
-1. What are we going to build in this course?
-2. What is a portfolio website?
-3. What are HTML, CSS, and JavaScript?
-4. What is GitHub used for?
-5. What is Vercel used for?
-6. What is an AI chatbot / AI assistant?
-```
-
-Teacher line:
-
-> Yesterday we saw the full journey. Today we will start building the first real part of that journey: your portfolio website.
-
----
-
-## 2. Short Foundation Concepts
-
-Keep this section short and energetic. Do not make it a long theory lecture.
-
----
 
 ## What is a Website?
 
@@ -107,7 +63,6 @@ It includes:
 | No database needed | Usually uses database |
 | Easier for beginners | More advanced |
 
-Teacher line:
 
 > In this course, we will first build a static portfolio website because it is the best foundation project.
 
@@ -155,7 +110,6 @@ Developers can write HTML in Notepad.
 <p>This is my first web page.</p>
 ```
 
-Teacher line:
 
 > This works, but professional developers use VS Code because it helps us write code faster, cleaner, and with fewer mistakes.
 
@@ -218,7 +172,6 @@ Steps:
 
 ### Step 3: Open Website With Live Server
 
-Explain:
 
 > Live Server lets us open our website in the browser and see changes quickly.
 
@@ -234,7 +187,6 @@ Steps:
 
 ## 5. HTML Boilerplate
 
-Teacher line:
 
 > Every proper HTML page has a basic structure. This is called the HTML boilerplate.
 
@@ -268,7 +220,6 @@ Write this code together:
 | `<title>` | Text shown on the browser tab |
 | `<body>` | Visible content of the website |
 
-Teacher line:
 
 > If you understand this structure, you already understand the skeleton of every website.
 
@@ -283,7 +234,7 @@ Inside `<body>`, add:
 <p>Hello, my name is Ali. I am learning web development.</p>
 ```
 
-Ask students to save and refresh the browser.
+
 
 ---
 
@@ -339,7 +290,6 @@ Ask students to save and refresh the browser.
 <a href="https://www.google.com" target="_blank">Visit Google</a>
 ```
 
-Explanation:
 
 ```text
 href = link address
@@ -363,15 +313,12 @@ target="_blank" = opens link in a new tab
 <img src="images/profile.png" alt="My profile picture" width="200">
 ```
 
-Explanation:
 
 ```text
 src = image location
 alt = image description
 width = image size
 ```
-
-Teacher line:
 
 > Even if the image does not show today, you now understand how images are added.
 
@@ -389,7 +336,6 @@ Semantic HTML means using tags that clearly describe the purpose of each part of
 | `<section>` | Content section |
 | `<footer>` | Bottom part of website |
 
-Teacher line:
 
 > Good developers do not only write code that works. They write code that is clean and understandable.
 
@@ -504,7 +450,6 @@ Now students build the first proper version of their portfolio.
 </header>
 ```
 
-Explanation:
 
 > This is the top area of our website.
 
@@ -519,7 +464,6 @@ Explanation:
 </nav>
 ```
 
-Explanation:
 
 > These links move us to sections of the same page.
 
@@ -534,7 +478,6 @@ Explanation:
 </section>
 ```
 
-Explanation:
 
 > The hero section is the first main section visitors see.
 
@@ -542,7 +485,7 @@ Explanation:
 
 ### Block 4: About and Skills
 
-Explanation:
+
 
 > About tells who you are. Skills show what you are learning.
 
@@ -550,7 +493,7 @@ Explanation:
 
 ### Block 5: Projects
 
-Explanation:
+
 
 > Project section is important because developers show what they have built.
 
@@ -558,7 +501,6 @@ Explanation:
 
 ### Block 6: Contact Form
 
-Explanation:
 
 > Forms are how websites collect information.
 
