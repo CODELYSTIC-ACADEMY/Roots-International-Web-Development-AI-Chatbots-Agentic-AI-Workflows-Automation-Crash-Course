@@ -1,5 +1,7 @@
 # Day 02 — Developer Setup + HTML Foundation + First Portfolio Page
 
+[Presntation Link](https://codelysticwdai1.my.canva.site/)
+
 ---
 
 ## 🎯 Day 02 Goal
