@@ -1,6 +1,6 @@
 # Day 02 — Developer Setup + HTML Foundation + First Portfolio Page
 
-[Presntation Link](https://codelysticwdai1.my.canva.site/)
+[Presntation Link](https://canva.link/is94oensrm315ja)
 
 ---
 
