@@ -1,0 +1,44 @@
+h2 {
+  color: #064e3b;
+  margin-bottom: 12px;
+}
+
+h3 {
+  color: #064e3b;
+  margin-top: 18px;
+}
+
+ul {
+  margin-top: 12px;
+  padding-left: 24px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+form {
+  margin-top: 18px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 12px;
+  margin-top: 8px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+textarea {
+  height: 100px;
+}
+
+footer {
+  text-align: center;
+  background-color: #064e3b;
+  color: white;
+  padding: 18px;
+  margin-top: 30px;
+}

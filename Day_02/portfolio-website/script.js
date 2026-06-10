@@ -1,0 +1,4 @@
+/*
+  JavaScript will be added in a later class.
+  Today we are focusing on CSS styling and GitHub introduction.
+*/
